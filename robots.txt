@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /documents/*/*
+
+
+Sitemap: https://www.quantango.tech/sitemap.xml
